@@ -1,0 +1,16 @@
+# Unity
+Library/
+Temp/
+obj/
+Logs/
+
+# IDE
+.vscode/
+.gradle/
+.vs/
+
+# Function
+ProjectSettings/Function.asset
+
+# Misc
+.DS_Store
