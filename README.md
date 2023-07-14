@@ -19,8 +19,6 @@ This is a demo that uses Stable Diffusion to paint surfaces as you walk around i
 
 > You will be asked to specify a payment method on Function after making a handful of predictions. So you probably want to do it right after you create an account.
 
-___
-
 ## Requirements
 - Unity 2022.3+
 
@@ -31,6 +29,6 @@ ___
 ## Useful Links
 - [Join Function's Discord community](https://fxn.ai/community).
 
-> Disclaimer: I'm the founder of Function.
-
 Thank you very much!
+
+> Disclaimer: I'm the founder of Function.
